@@ -13,7 +13,7 @@ A simple React Native application that displays Points of Interest (POIs) on a m
 
 Click the thumbnail below to watch a short demo of the app in action:
 
-[![Watch the video]](https://youtube.com/shorts/5v23i50UcdE?si=B_hcOAtoZg-VAU67)
+[Watch the video](https://www.youtube.com/shorts/5v23i50UcdE )
 
 
 ---
