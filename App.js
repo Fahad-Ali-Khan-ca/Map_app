@@ -15,7 +15,7 @@ import MapView, { Marker, Callout } from 'react-native-maps';
 import axios from 'axios';
 
 
-const GEOAPIFY_API_KEY = '8340d43ee90a4103b98beef4e45ee08c';
+const GEOAPIFY_API_KEY = 'YOU_API_KEY_HERE';
 const CATEGORIES = 'accommodation.hotel,catering.restaurant';
 
 
